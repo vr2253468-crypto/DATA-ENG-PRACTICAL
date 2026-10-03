@@ -1,0 +1,6 @@
+customer_id,customer_name,gender,city,registration_date
+C001,Rahul,Male,Mumbai,2025-01-15
+C002,Priya,Female,Pune,2025-02-10
+C003,Amit,Male,Nagpur,2025-02-20
+C004,Neha,Female,Delhi,2025-03-05
+C005,Arjun,Male,Bangalore,2025-03-15

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 6,
+        "full_name": "Anita",
+        "age": 31,
+        "location": "mumbai",
+        "total_sales": 9200
+    },
+    {
+        "id": 7,
+        "full_name": "Vikram",
+        "age": 27,
+        "location": "pune",
+        "total_sales": 6100
+    },
+    {
+        "id": 8,
+        "full_name": "Invalid Customer",
+        "age": 29,
+        "location": "Delhi",
+        "total_sales": -100
+    }
+]

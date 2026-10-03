@@ -1,0 +1,6 @@
+payment_id,payment_method,payment_status
+PM001,Credit Card,Completed
+PM002,UPI,Completed
+PM003,Debit Card,Completed
+PM004,UPI,Completed
+PM005,Credit Card,Completed

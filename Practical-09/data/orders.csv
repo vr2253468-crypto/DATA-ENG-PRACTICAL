@@ -1,0 +1,4 @@
+order_id,customer_id,product_id,quantity,order_status,order_date,updated_at
+O1001,C001,P001,2,completed,2026-01-10T10:00:00Z,2026-01-10T10:05:00Z
+O1002,C002,P002,1,completed,2026-01-11T11:00:00Z,2026-01-11T11:05:00Z
+O1003,C003,P003,1,cancelled,2026-01-12T12:00:00Z,2026-01-12T12:05:00Z
