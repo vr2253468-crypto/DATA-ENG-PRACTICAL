@@ -1,0 +1,4 @@
+payment_id,order_id,payment_method,payment_status,amount,updated_at
+PAY001,O1001,card,paid,49.98,2026-01-10T10:10:00Z
+PAY002,O1002,upi,paid,89.00,2026-01-11T11:10:00Z
+PAY003,O1003,card,refunded,39.50,2026-01-12T12:10:00Z

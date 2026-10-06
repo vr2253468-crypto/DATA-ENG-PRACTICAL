@@ -1,0 +1,7 @@
+order_id,product_id,quantity,unit_price,status
+1001,P001,2,25.0,completed
+1002,P002,1,80.0,completed
+1003,P001,1,25.0,cancelled
+1004,P003,3,15.0,completed
+1005,P002,2,80.0,completed
+1005,P002,2,80.0,completed

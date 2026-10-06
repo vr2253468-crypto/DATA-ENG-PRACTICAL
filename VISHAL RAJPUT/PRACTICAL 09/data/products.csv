@@ -1,0 +1,4 @@
+product_id,product_name,category,unit_price,updated_at
+P001,Wireless Mouse,Accessories,24.99,2026-01-05T09:00:00Z
+P002,Mechanical Keyboard,Accessories,89.00,2026-01-05T09:30:00Z
+P003,USB-C Hub,Computing,39.50,2026-01-06T09:00:00Z
